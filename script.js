@@ -37,19 +37,3 @@ function showdata() {
     checkbox.innerHTML = localStorage.getItem('data');
 }
 showdata();
-
-
-// let arr = [300, 8, 900, 400, 6]
-// let n = arr.length;
-// let temp='';
-// for (let i = 0; i <= n - 1; i++) {
-//    if(arr[i]>arr[i+1]){
-//     temp+=arr[i];
-//    }
-//    else{
-
-//    }
-// }
-
-// a = 100
-// console.log(a)
